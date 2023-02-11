@@ -22,7 +22,7 @@ You can check out my public repositories. Although there is not much there now, 
 - Knowledge of data structures and algorithms.
 - Experience with databases such as MySQL and MongoDB.
 - Understanding of front-end technologies such as HTML, CSS, and JavaScript.
-- Exposure to web frameworks such as Flask, Django, or Ruby on Rails.
+- Exposure to web frameworks such as Flask and Ruby on Rails.
 - Basic knowledge of version control systems such as Git.
 - Familiarity with operating systems such as Windows, Linux, or macOS.
 - Understanding of networking concepts and protocols.
