@@ -4,7 +4,7 @@ Hi there! I'm Marta Aija, a junior web and software developer. I'm passionate ab
 
 ## My Work
 
-You can check out my public repositories. Although there is not much there now I will be uploading a lot more in the nearest future.
+You can check out my public repositories. Although there is not much there now, I will be uploading a lot more in the nearest future.
 
 ## Soft Skills
 
