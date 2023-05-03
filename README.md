@@ -1,4 +1,4 @@
-# Marta Aija
+# Marta Aija Zigure
 
 Hi there! I'm Marta Aija, a junior web and software developer. I'm passionate about nowadays computer science trends and all the amazing stuff we can do with technology.
 
